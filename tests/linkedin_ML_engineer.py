@@ -9,11 +9,11 @@ def test_linkedin_navigation_ml():
             "https://www.linkedin.com/jobs/search?keywords=&location=Coimbatore&geoId=101031506&position=1&pageNum=0",
             wait_until="domcontentloaded"
         )
-        page.add_init_script("""
-    document.addEventListener('DOMContentLoaded', () => {
-        window.stop(); // Stops the loading of images/scripts once text is ready
-    });
-""")
+#         page.add_init_script("""
+#     document.addEventListener('DOMContentLoaded', () => {
+#         window.stop(); // Stops the loading of images/scripts once text is ready
+#     });
+# """)
         page.wait_for_timeout(2000)
 
         # close popup safely

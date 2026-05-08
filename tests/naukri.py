@@ -10,11 +10,11 @@ def naukri_search():
             wait_until="domcontentloaded",
             timeout=60000
         )
-        page.add_init_script("""
-    document.addEventListener('DOMContentLoaded', () => {
-        window.stop(); // Stops the loading of images/scripts once text is ready
-    });
-""")
+#         page.add_init_script("""
+#     document.addEventListener('DOMContentLoaded', () => {
+#         window.stop(); // Stops the loading of images/scripts once text is ready
+#     });
+# """)
         page.locator("#expereinceDD").click()
         page.locator(".dropdown li").first.click()
 

@@ -7,11 +7,11 @@ def internshala_search():
         page = browser.new_page()
         page.wait_for_timeout(3000)
         page.goto("https://internshala.com/",wait_until="load")
-        page.add_init_script("""
-    document.addEventListener('DOMContentLoaded', () => {
-        window.stop(); // Stops the loading of images/scripts once text is ready
-    });
-""")
+#         page.add_init_script("""
+#     document.addEventListener('DOMContentLoaded', () => {
+#         window.stop(); // Stops the loading of images/scripts once text is ready
+#     });
+# """)
         # 1. Set the global timeout to 5 seconds (5000ms)
         page.set_default_timeout(5000)
 
