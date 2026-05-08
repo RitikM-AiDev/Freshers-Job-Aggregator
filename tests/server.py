@@ -21,7 +21,9 @@ app.add_middleware(
 
 class Message(BaseModel):
     request: str
-
+@app.get("/")
+def home():
+    return {"status": "running"}
 
 @app.post("/search")
 def search(data: Message):
