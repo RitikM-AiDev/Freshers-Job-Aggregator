@@ -1,0 +1,1262 @@
+[
+    {
+        "company": "Impelsys\n3.0\n295 Reviews",
+        "title": "PHD in Artificial Intelligence / Machine Learning",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-phd-in-artificial-intelligence-machine-learning-impelsys-bengaluru-0-to-5-years-020526004519"
+    },
+    {
+        "company": "Lifesight\n2.8\n19 Reviews",
+        "title": "AI Stack Intern / Junior Associate",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-stack-intern-junior-associate-lifesight-bengaluru-0-to-2-years-300426503753"
+    },
+    {
+        "company": "Skan\n3.6\n5 Reviews",
+        "title": "AI Engineer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-engineer-skan-bengaluru-0-to-4-years-270426502678"
+    },
+    {
+        "company": "Onsurity\n2.4\n112 Reviews",
+        "title": "Artificial Intelligence Intern",
+        "location": "Bengaluru",
+        "salary": "35,000/month",
+        "apply_link": "https://www.naukri.com/job-listings-artificial-intelligence-intern-onsurity-bengaluru-0-to-1-years-270426028632"
+    },
+    {
+        "company": "Secpod Technologies\n3.3\n31 Reviews",
+        "title": "AI/ML Engineer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-engineer-secpod-technologies-pvt-ltd-bengaluru-0-to-5-years-210426502759"
+    },
+    {
+        "company": "Figmenta",
+        "title": "AI / Agentic Systems Designer Intern",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-agentic-systems-designer-intern-figmenta-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-1-years-200326506414"
+    },
+    {
+        "company": "Futureacad",
+        "title": "AI - Data Analyst - Intern",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-data-analyst-intern-futureacad-bengaluru-0-to-5-years-200226505606"
+    },
+    {
+        "company": "Infilect\n2.4\n17 Reviews",
+        "title": "AI Intern",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-intern-infilect-bengaluru-0-to-2-years-150424502369"
+    },
+    {
+        "company": "Pragyashal\n4.4\n38 Reviews",
+        "title": "Associate Machine Learning Engineer Internship",
+        "location": "Bengaluru",
+        "salary": "25,000/month",
+        "apply_link": "https://www.naukri.com/job-listings-associate-machine-learning-engineer-internship-pragyashal-bengaluru-0-to-1-years-010925502315"
+    },
+    {
+        "company": "AbstrabitTechnologiesPvtLtd\n4.3\n11 Reviews",
+        "title": "Generative AI Intern",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-generative-ai-intern-abstrabittechnologiespvtltd-bengaluru-0-to-1-years-010426503516"
+    },
+    {
+        "company": "Roku\n3.7\n57 Reviews",
+        "title": "Senior Software Engineer, Machine Learning",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-senior-software-engineer-machine-learning-roku-bengaluru-0-to-7-years-260326501721"
+    },
+    {
+        "company": "Roku\n3.7\n57 Reviews",
+        "title": "Senior Software Engineer, Machine Learning",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-senior-software-engineer-machine-learning-roku-bengaluru-0-to-7-years-260326501718"
+    },
+    {
+        "company": "Augray\n3.5\n22 Reviews",
+        "title": "AI ML, Chatbot Developer",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-chatbot-developer-augray-chennai-0-to-3-years-220126504216"
+    },
+    {
+        "company": "ABEX Group",
+        "title": "Machine Learning Intern",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-machine-learning-intern-abex-group-chennai-0-to-1-years-190226503611"
+    },
+    {
+        "company": "Jidoka Technologies\n3.6\n4 Reviews",
+        "title": "Data Science Engineer",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-data-science-engineer-jidoka-technologies-chennai-0-to-2-years-180825502384"
+    },
+    {
+        "company": "Avataar\n4.1\n63 Reviews",
+        "title": "Research Engineer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-research-engineer-avataar-bengaluru-0-to-4-years-040324500550"
+    },
+    {
+        "company": "Fujitsu\n3.8\n2953 Reviews",
+        "title": "Software Developer (AI Agent Developer)",
+        "location": "Hybrid - Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-software-developer-ai-agent-developer-fujitsu-bengaluru-0-to-2-years-130126024599"
+    },
+    {
+        "company": "Accenture\n3.7\n73383 Reviews",
+        "title": "AI/ML Computational Science Analyst",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-computational-science-analyst-accenture-solutions-pvt-ltd-bengaluru-0-to-2-years-070526929566"
+    },
+    {
+        "company": "Ipdigital Technologies\n3.9\n7 Reviews",
+        "title": "AI Engineer Intern",
+        "location": "Bengaluru",
+        "salary": "1.75-2 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-ai-engineer-intern-ipdigital-technologies-bengaluru-0-to-1-years-070526033328"
+    },
+    {
+        "company": "Agilisium\n3.0\n116 Reviews",
+        "title": "Trainee Engineer Life Sciences AI",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-trainee-engineer-life-sciences-ai-agilisium-chennai-0-to-1-years-070526025254"
+    },
+    {
+        "company": "Accenture\n3.7\n73383 Reviews",
+        "title": "AI/ML Computational Science Analyst",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-computational-science-analyst-accenture-solutions-pvt-ltd-bengaluru-0-to-1-years-060526936772"
+    },
+    {
+        "company": "Accenture\n3.7\n73383 Reviews",
+        "title": "AI/ML Computational Science Analyst",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-computational-science-analyst-accenture-solutions-pvt-ltd-bengaluru-0-to-1-years-060526936574"
+    },
+    {
+        "company": "Diverse Lynx\n3.5\n382 Reviews",
+        "title": "Python+AI developers",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-python-ai-developers-diverse-lynx-bengaluru-0-to-5-years-060526500432"
+    },
+    {
+        "company": "Wells Fargo\n3.6\n8673 Reviews",
+        "title": "Commercial Real Estate Portfolio Associate,",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-commercial-real-estate-portfolio-associate-wells-fargo-international-solutions-private-ltd-bengaluru-0-to-1-years-070526929675"
+    },
+    {
+        "company": "Airdit Software Services\n2.6\n50 Reviews",
+        "title": "AI Developer (Fresher)",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-developer-fresher-airdit-software-services-pvt-ltd-bengaluru-0-to-1-years-060526503707"
+    },
+    {
+        "company": "Nirmaan Organization\n3.6\n117 Reviews",
+        "title": "AI Trainer",
+        "location": "Chennai, Bengaluru, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-trainer-nirmaan-organization-pune-chennai-bengaluru-0-to-1-years-070526910452"
+    },
+    {
+        "company": "Simulation Lab - Scientific Research and Development Center\n4.0\n68 Reviews",
+        "title": "AI Engineer (Computer Engineer)",
+        "location": "Chennai, Bengaluru, Hyderabad",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-engineer-computer-engineer-simulation-lab-scientific-research-and-development-center-hyderabad-chennai-bengaluru-0-to-0-years-060526016356"
+    },
+    {
+        "company": "Shahi\n3.9\n2165 Reviews",
+        "title": "AI/ML Specialist ( Vision & RAG )",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-specialist-vision-rag-shahi-bengaluru-0-to-1-years-040526012049"
+    },
+    {
+        "company": "Shahi\n3.9\n2165 Reviews",
+        "title": "AI Data & Full Stack Engineer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-data-full-stack-engineer-shahi-bengaluru-0-to-1-years-040526011718"
+    },
+    {
+        "company": "Regami Solutions\n3.7\n80 Reviews",
+        "title": "Python Developer - PET (Freshers)",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-python-developer-pet-freshers-regami-solutions-chennai-0-to-1-years-040526012934"
+    },
+    {
+        "company": "Prgeeq Global Solutions",
+        "title": "Research Analyst - Intern",
+        "location": "Hybrid - Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-research-analyst-intern-prgeeq-global-solutions-bengaluru-0-to-1-years-300426911442"
+    },
+    {
+        "company": "Coindcx\n3.9\n161 Reviews",
+        "title": "Intern - Quant",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-intern-quant-coindcx-bengaluru-0-to-1-years-280426500390"
+    },
+    {
+        "company": "Amrita Vishwa Vidyapeetham\n3.6\n216 Reviews",
+        "title": "Post-Doctoral Fellowship",
+        "location": "Coimbatore",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-post-doctoral-fellowship-amrita-vishwa-vidyapeetham-coimbatore-0-to-4-years-300426503055"
+    },
+    {
+        "company": "Fujitsu\n3.8\n2953 Reviews",
+        "title": "Software Developer (AI Agent Developer)",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-software-developer-ai-agent-developer-fujitsu-bengaluru-0-to-1-years-270426002854"
+    },
+    {
+        "company": "Benovymed Healthcare Private Limited",
+        "title": "Advisory Board Members-AI",
+        "location": "Coimbatore",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-advisory-board-members-ai-benovymed-healthcare-private-limited-coimbatore-0-to-3-years-300426937726"
+    },
+    {
+        "company": "Pozent\n2.3\n37 Reviews",
+        "title": "Trainee AI engineers",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-trainee-ai-engineers-pozent-chennai-0-to-3-years-230426503044"
+    },
+    {
+        "company": "Cloudsek Information Security\n3.7\n22 Reviews",
+        "title": "SDE Intern - Frontend",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-sde-intern-frontend-cloudsek-information-security-private-limited-bengaluru-0-to-1-years-190326503359"
+    },
+    {
+        "company": "Cloudsek Information Security\n3.7\n22 Reviews",
+        "title": "Product Specialist Intern",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-product-specialist-intern-cloudsek-information-security-private-limited-bengaluru-0-to-1-years-170326500997"
+    },
+    {
+        "company": "Amazon\n3.9\n31386 Reviews",
+        "title": "AI Benchmarking Specialist",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-benchmarking-specialist-amazon-development-centre-india-pvt-ltd-bengaluru-0-to-7-years-090426503474"
+    },
+    {
+        "company": "Amazon\n3.9\n31386 Reviews",
+        "title": "AI Benchmarking Specialist",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-benchmarking-specialist-amazon-development-centre-india-pvt-ltd-bengaluru-0-to-7-years-090426503472"
+    },
+    {
+        "company": "Infanion Software Solutions\n2.5\n32 Reviews",
+        "title": "Junior Software Developer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-junior-software-developer-infanion-bengaluru-0-to-1-years-070126500847"
+    },
+    {
+        "company": "Amazon\n3.9\n31386 Reviews",
+        "title": "AI Benchmarking Specialist, SP Support",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-benchmarking-specialist-sp-support-amazon-development-centre-india-pvt-ltd-bengaluru-0-to-7-years-010426505216"
+    },
+    {
+        "company": "Amazon\n3.9\n31386 Reviews",
+        "title": "AI Benchmarking Specialist, SP Support",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-benchmarking-specialist-sp-support-amazon-development-centre-india-pvt-ltd-bengaluru-0-to-7-years-010426503981"
+    },
+    {
+        "company": "Han Digital Solution (P)",
+        "title": "Data Annotation Spanish Experts",
+        "location": "Bengaluru, Hubli, Mangaluru, Mysuru, Belgaum",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-data-annotation-spanish-experts-han-digital-solution-p-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-1-years-221125501019"
+    },
+    {
+        "company": "Cloudthat Technologies\n4.0\n140 Reviews",
+        "title": "Graphic Designer-(Trainee/Executive)",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-graphic-designer-trainee-executive-cloudthat-technologies-pvt-ltd-bengaluru-0-to-2-years-220725504977"
+    },
+    {
+        "company": "Pentagon Space\n3.5\n56 Reviews",
+        "title": "Counsellor",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-counsellor-pentagon-space-bengaluru-0-to-4-years-210525505708"
+    },
+    {
+        "company": "Futureacad",
+        "title": "AI Product Developer - Intern",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-product-developer-intern-futureacad-bengaluru-0-to-1-years-200226505610"
+    },
+    {
+        "company": "Futureacad",
+        "title": "AI Devops Engineer - Intern",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-devops-engineer-intern-futureacad-bengaluru-0-to-1-years-200226505609"
+    },
+    {
+        "company": "Futureacad",
+        "title": "AI - ML Engineer - Intern",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-engineer-intern-futureacad-bengaluru-0-to-1-years-200226505607"
+    },
+    {
+        "company": "ABEX Group",
+        "title": "AI Research Intern",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-research-intern-abex-group-chennai-0-to-1-years-190226503081"
+    },
+    {
+        "company": "Victopia Labs (Enterprise Software Solutions)\n4.0\n2 Reviews",
+        "title": "AI/ML Research Development Intern Victopia Labs",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-research-development-intern-victopia-labs-victopia-labs-enterprise-software-solutions-chennai-0-to-2-years-181224501873"
+    },
+    {
+        "company": "Appzlogic\n3.1\n40 Reviews",
+        "title": "Python Developer",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-python-developer-appzlogic-mobility-solutions-pvt-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-3-years-121124502854"
+    },
+    {
+        "company": "Amazon\n3.9\n31386 Reviews",
+        "title": "ML Data Associate I",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ml-data-associate-i-amazon-development-centre-india-pvt-ltd-chennai-0-to-4-years-120326504330"
+    },
+    {
+        "company": "Godigi Infotech\n2.4\n2 Reviews",
+        "title": "AI Software Engineer",
+        "location": "Bengaluru, Mumbai, New Delhi, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-software-engineer-godigi-infotech-mumbai-new-delhi-pune-bengaluru-0-to-1-years-100524500130"
+    },
+    {
+        "company": "Deloitte Consulting\n3.7\n23131 Reviews",
+        "title": "Enabling Areas DEC Executive Data Science",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-enabling-areas-dec-executive-data-science-deloitte-bengaluru-0-to-4-years-060326501163"
+    },
+    {
+        "company": "Edcults Consulting",
+        "title": "Research Intern",
+        "location": "Bengaluru, Hyderabad",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-research-intern-edcults-consulting-hyderabad-bengaluru-0-to-1-years-030125502425"
+    },
+    {
+        "company": "Future Intern\n4.1\n11 Reviews",
+        "title": "Machine Learning Professional",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-machine-learning-professional-future-interns-bengaluru-0-to-1-years-290825500991"
+    },
+    {
+        "company": "Ipexcel Services\n3.8\n12 Reviews",
+        "title": "Senior Software Developer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-senior-software-developer-ipexcel-services-private-limited-bengaluru-0-to-4-years-260326503447"
+    },
+    {
+        "company": "Newton School\n3.5\n156 Reviews",
+        "title": "Technical Content & AI Engineering Intern",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-technical-content-ai-engineering-intern-newton-school-bengaluru-0-to-2-years-220426501751"
+    },
+    {
+        "company": "Pragyan Ai\n5.0\n2 Reviews",
+        "title": "AI/ML Internship",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-internship-pragyan-ai-bengaluru-0-to-5-years-200625500001"
+    },
+    {
+        "company": "ABEX Group",
+        "title": "Gen AI Developer Intern",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-gen-ai-developer-intern-abex-group-chennai-0-to-1-years-190226503074"
+    },
+    {
+        "company": "Nextura Ai",
+        "title": "Data Annotation Engineer",
+        "location": "Chennai",
+        "salary": "50,000-2.25 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-data-annotation-engineer-nextura-solutions-chennai-0-to-1-years-150426014389"
+    },
+    {
+        "company": "Huntertech Ventures",
+        "title": "Python Developer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-python-developer-hunter-tech-ventures-pvt-ltd-bengaluru-0-to-2-years-140524501680"
+    },
+    {
+        "company": "Magic Myna",
+        "title": "Drone Pilot \u2013 Agriculture & Industrial Operations",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-drone-pilot-agriculture-industrial-operations-magicmyna-bengaluru-0-to-1-years-140426502710"
+    },
+    {
+        "company": "Accenture\n3.7\n73383 Reviews",
+        "title": "S&C Global Network - AI - CMT - Data Science network\u00c2\u00a0 Consultant",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-s-c-global-network-ai-cmt-data-science-network-consultant-accenture-solutions-pvt-ltd-bengaluru-0-to-1-years-130426924787"
+    },
+    {
+        "company": "Barclays\n3.8\n1156 Reviews",
+        "title": "Software Engineer Agentic AI",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-software-engineer-agentic-ai-barclays-shared-services-bengaluru-0-to-7-years-130426500331"
+    },
+    {
+        "company": "Lorven Technologies\n3.3\n41 Reviews",
+        "title": "AI Solution Engineer",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-solution-engineer-lorventech-solutions-india-pvt-ltd-chennai-0-to-5-years-100326505404"
+    },
+    {
+        "company": "Vydehi School Of Excellence\n3.7\n69 Reviews",
+        "title": "TGT Computer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-tgt-computer-vydehi-school-bengaluru-0-to-4-years-100326503848"
+    },
+    {
+        "company": "Kintellect Partners Llp",
+        "title": "Data Analyst - AI Projects",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-data-analyst-ai-projects-kintellect-partners-llp-bengaluru-0-to-2-years-090426500673"
+    },
+    {
+        "company": "Kintellect Partners Llp",
+        "title": "Data Analyst - AI Projects",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-data-analyst-ai-projects-kintellect-partners-llp-bengaluru-0-to-2-years-090426500672"
+    },
+    {
+        "company": "Medi Assist\n3.5\n1845 Reviews",
+        "title": "Product Manager",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-product-manager-medi-assist-bengaluru-0-to-3-years-070725500579"
+    },
+    {
+        "company": "Karomi Technology\n3.5\n45 Reviews",
+        "title": "AI Intern - Generative Design Intelligence",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-intern-generative-design-intelligence-karomi-technologies-chennai-0-to-2-years-070426501767"
+    },
+    {
+        "company": "Lennox India Technology Centre (LITC)\n3.6\n177 Reviews",
+        "title": "Post Graduate Engineering Trainee - FEA",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-post-graduate-engineering-trainee-fea-lennox-india-technology-centre-chennai-0-to-2-years-061125502141"
+    },
+    {
+        "company": "Seaportai",
+        "title": "Deep Learning Intern Healthcare AI",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-deep-learning-intern-healthcare-ai-seaportai-chennai-0-to-1-years-060426500767"
+    },
+    {
+        "company": "R C W M A S Global",
+        "title": "AI Automation Engineer",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-automation-engineer-r-c-w-m-a-s-global-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-3-years-040825507252"
+    },
+    {
+        "company": "Futureacad",
+        "title": "AI Agent Developer - Intern",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-agent-developer-intern-futureacad-bengaluru-0-to-5-years-200226505608"
+    },
+    {
+        "company": "Appobile Labs\n2.9\n10 Reviews",
+        "title": "ML / AI internship",
+        "location": "Bengaluru, Dombivli",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ml-ai-internship-appobile-labs-dombivli-bengaluru-0-to-1-years-190922500524"
+    },
+    {
+        "company": "ABEX Group",
+        "title": "AI & Web Scraping Intern",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-web-scraping-intern-abex-group-chennai-0-to-1-years-190226503060"
+    },
+    {
+        "company": "360DigiTMG\n4.1\n108 Reviews",
+        "title": "AI Intern - R&D",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-intern-r-d-360digitmg-chennai-0-to-1-years-180825504095"
+    },
+    {
+        "company": "360DigiTMG\n4.1\n108 Reviews",
+        "title": "AI Intern - GenAI",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-intern-genai-360digitmg-chennai-0-to-1-years-180825504094"
+    },
+    {
+        "company": "360DigiTMG\n4.1\n108 Reviews",
+        "title": "AI Intern - Backend",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-intern-backend-360digitmg-chennai-0-to-1-years-180825504093"
+    },
+    {
+        "company": "SKF Groups\n4.0\n1238 Reviews",
+        "title": "AI Developer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-developer-skf-groups-bengaluru-0-to-4-years-180425502471"
+    },
+    {
+        "company": "Egmat\n2.8\n16 Reviews",
+        "title": "Business Consultant AI -Powered Customer Success",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-business-consultant-ai-powered-customer-success-e-gmat-bengaluru-0-to-3-years-170625502084"
+    },
+    {
+        "company": "Crompton Greaves Consumer Electricals\n3.7\n1038 Reviews",
+        "title": "Intern - AI @ Crompton",
+        "location": "Bengaluru, Mumbai (All Areas)",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-intern-ai-crompton-crompton-greaves-consumer-electricals-bengaluru-mumbai-all-areas-0-to-1-years-160326010655"
+    },
+    {
+        "company": "Google\n4.4\n1895 Reviews",
+        "title": "Conversational AI Strategic Cloud Engineer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-conversational-ai-strategic-cloud-engineer-google-india-private-limited-bengaluru-0-to-0-years-090725503314"
+    },
+    {
+        "company": "Google\n4.4\n1895 Reviews",
+        "title": "Conversational AI Strategic Cloud Engineer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-conversational-ai-strategic-cloud-engineer-google-india-private-limited-bengaluru-0-to-0-years-090725503313"
+    },
+    {
+        "company": "Google\n4.4\n1895 Reviews",
+        "title": "Cloud Engineer, AI",
+        "location": "Bengaluru, Gurugram",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-cloud-engineer-ai-google-india-private-limited-gurugram-bengaluru-0-to-0-years-090725503306"
+    },
+    {
+        "company": "Google\n4.4\n1895 Reviews",
+        "title": "Cloud Engineer, AI",
+        "location": "Bengaluru, Gurugram",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-cloud-engineer-ai-google-india-private-limited-gurugram-bengaluru-0-to-0-years-090725503305"
+    },
+    {
+        "company": "Cloud Focus Solutions",
+        "title": "Internship on Data Analytics and Artificial Intelligence",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-internship-on-data-analytics-and-artificial-intelligence-cloud-focus-solutions-bengaluru-0-to-1-years-210426042729"
+    },
+    {
+        "company": "Nirmaan Organization\n3.6\n117 Reviews",
+        "title": "Trainer AI",
+        "location": "Bengaluru",
+        "salary": "2-4.25 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-trainer-ai-nirmaan-organization-bengaluru-0-to-1-years-090326025434"
+    },
+    {
+        "company": "Billion Atom",
+        "title": "Ai Ml Engineer",
+        "location": "Bengaluru, Delhi / NCR, Mumbai (All Areas)",
+        "salary": "6-15 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ml-engineer-billion-atom-bengaluru-delhi-ncr-mumbai-all-areas-0-to-3-years-230126026135"
+    },
+    {
+        "company": "Micro1",
+        "title": "Junior AI Engineer (India)",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-junior-ai-engineer-india-micro1-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-3-years-011225501372"
+    },
+    {
+        "company": "Viga Entertainment Technology\n4.5\n6 Reviews",
+        "title": "Internship- AI Engineer",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-internship-ai-engineer-viga-entertainment-technology-private-limited-bengaluru-0-to-1-years-080125506691"
+    },
+    {
+        "company": "Blubridge\n4.1\n13 Reviews",
+        "title": "Business Development - AI Strategy & Partnerships",
+        "location": "Chennai",
+        "salary": "5-7 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-business-development-ai-strategy-partnerships-blubridge-chennai-0-to-1-years-300426040363"
+    },
+    {
+        "company": "Agilisium\n3.0\n116 Reviews",
+        "title": "Trainee Engineer",
+        "location": "Chennai, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-trainee-engineer-agilisium-hyderabad-pune-chennai-0-to-1-years-060526032274"
+    },
+    {
+        "company": "Startek\n3.0\n9489 Reviews",
+        "title": "Executive - Operations",
+        "location": "Bengaluru, Hosur",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-executive-operations-startek-hosur-bengaluru-0-to-5-years-070526502608"
+    },
+    {
+        "company": "Startek\n3.0\n9489 Reviews",
+        "title": "Apprentice - Operations",
+        "location": "Bengaluru, Hosur",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-apprentice-operations-startek-hosur-bengaluru-0-to-1-years-070526502601"
+    },
+    {
+        "company": "Broadridge\n3.8\n1560 Reviews",
+        "title": "Fullstack Developer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-fullstack-developer-broadridge-financial-solutions-india-pvt-ltd-bengaluru-0-to-5-years-070526500767"
+    },
+    {
+        "company": "TekWissen\n4.9\n1889 Reviews",
+        "title": "AI Data Trainer",
+        "location": "Chennai, Gurugram",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-data-trainer-tekwissen-software-private-limited-gurugram-chennai-0-to-5-years-060526917445"
+    },
+    {
+        "company": "Amazon\n3.9\n31386 Reviews",
+        "title": "Catalog Associate - JP, Fire TV",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-catalog-associate-jp-fire-tv-amazon-development-centre-india-pvt-ltd-chennai-0-to-5-years-060526504219"
+    },
+    {
+        "company": "Startek\n3.0\n9489 Reviews",
+        "title": "Executive - Operations",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-executive-operations-startek-bengaluru-0-to-5-years-060526503580"
+    },
+    {
+        "company": "Natwest Digitalx\n3.9\n3361 Reviews",
+        "title": "Software Engineer (6 Months Full time Contract)",
+        "location": "Hybrid - Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-software-engineer-6-months-full-time-contract-natwest-digitalx-bengaluru-0-to-1-years-060526039833"
+    },
+    {
+        "company": "Healon",
+        "title": "UI/UX Developer Intern",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ui-ux-developer-intern-healon-bengaluru-0-to-1-years-070526927159"
+    },
+    {
+        "company": "Accenture\n3.7\n73383 Reviews",
+        "title": "Utility Bill Associate",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-utility-bill-associate-accenture-solutions-pvt-ltd-chennai-0-to-1-years-070526920699"
+    },
+    {
+        "company": "MyBlue.ai",
+        "title": "AI Engineer Intern",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-engineer-intern-myblue-ai-bengaluru-0-to-2-years-070526502176"
+    },
+    {
+        "company": "MyBlue.ai",
+        "title": "AI Video Creator",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-video-creator-myblue-ai-bengaluru-0-to-2-years-070526501774"
+    },
+    {
+        "company": "Symphonyincubator Business Services",
+        "title": "Apprentice, Project Trainee (PSO)",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-apprentice-project-trainee-pso-symphonyincubator-business-services-private-limite-d-bengaluru-0-to-1-years-060526932000"
+    },
+    {
+        "company": "Billion Atom",
+        "title": "Software Developer",
+        "location": "Bengaluru, Mumbai (All Areas)",
+        "salary": "3-5.5 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-software-developer-billion-atom-bengaluru-mumbai-all-areas-0-to-0-years-070526025292"
+    },
+    {
+        "company": "TELUS Digital\n3.5\n1902 Reviews",
+        "title": "Multimodal AI Content Specialist - Intermediate - Tamil speaker",
+        "location": "Remote",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-multimodal-ai-content-specialist-intermediate-tamil-speaker-telus-digital-chennai-0-to-5-years-050526044417"
+    },
+    {
+        "company": "Toddle\n3.5\n28 Reviews",
+        "title": "Intern, Growth",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-intern-growth-toddle-bengaluru-0-to-1-years-010526503645"
+    },
+    {
+        "company": "Paytm\n3.2\n9323 Reviews",
+        "title": "Team Lead - Offline Merchants QR",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-team-lead-offline-merchants-qr-paytm-payments-services-limited-bengaluru-0-to-1-years-010526501346"
+    },
+    {
+        "company": "Morphosis Tec",
+        "title": "Full Stack Developer (React + Django + Python)",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-full-stack-developer-react-django-python-morphosisbusiness-services-bengaluru-0-to-6-years-250326016161"
+    },
+    {
+        "company": "Wells Fargo\n3.6\n8673 Reviews",
+        "title": "Business Execution Associate",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-business-execution-associate-wells-fargo-international-solutions-private-ltd-bengaluru-0-to-1-years-210426934260"
+    },
+    {
+        "company": "Accenture\n3.7\n73383 Reviews",
+        "title": "ACN GN - SONG - Service - CX - Service Design -Analyst",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-acn-gn-song-service-cx-service-design-analyst-accenture-solutions-pvt-ltd-bengaluru-0-to-1-years-050526935820"
+    },
+    {
+        "company": "Probots Electronics India\n3.9\n2 Reviews",
+        "title": "Junior Embedded Hardware Design Engineer",
+        "location": "Bengaluru(Malleshwaram West +4)",
+        "salary": "2.5-3.5 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-junior-embedded-hardware-design-engineer-probots-electronics-india-pvt-ltd-bengaluru-0-to-2-years-050526039695"
+    },
+    {
+        "company": "Kuku Fm\n3.8\n101 Reviews",
+        "title": "AI & Ops Intern",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-ops-intern-kuku-fm-bengaluru-0-to-1-years-010526502877"
+    },
+    {
+        "company": "ABB\n4.0\n3405 Reviews",
+        "title": "R & D Engineer",
+        "location": "Hybrid - Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-r-d-engineer-abb-india-limited-bengaluru-0-to-3-years-280426926957"
+    },
+    {
+        "company": "Benovymed Healthcare Private Limited",
+        "title": "Advisory Board Members- AI",
+        "location": "Coimbatore",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-advisory-board-members-ai-benovymed-healthcare-private-limited-coimbatore-0-to-3-years-300426935381"
+    },
+    {
+        "company": "Ganapa Life Science\n5.0\n2 Reviews",
+        "title": "R & D Associate",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-r-d-associate-ganapa-life-science-bengaluru-0-to-2-years-300426503013"
+    },
+    {
+        "company": "Sinch\n3.6\n174 Reviews",
+        "title": "Intern",
+        "location": "Chennai, Ghaziabad",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-intern-sinch-ghaziabad-chennai-0-to-1-years-300426501624"
+    },
+    {
+        "company": "Fubotv\n1.1\n5 Reviews",
+        "title": "Associate Analyst, Data Annotation (Contractor)",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-associate-analyst-data-annotation-contractor-fubotv-bengaluru-0-to-5-years-290426502310"
+    },
+    {
+        "company": "Nextura Ai",
+        "title": "Freelancer-Data Annotation (3Months )",
+        "location": "Remote",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-freelancer-data-annotation-3months-nextura-ai-chennai-0-to-1-years-280426006024"
+    },
+    {
+        "company": "Speechify\n2.3\n4 Reviews",
+        "title": "Senior Software Engineer, Core Experiences",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-senior-software-engineer-core-experiences-speechify-chennai-0-to-2-years-270426502914"
+    },
+    {
+        "company": "Speechify\n2.3\n4 Reviews",
+        "title": "Software Engineer, Platform",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-software-engineer-platform-speechify-bengaluru-0-to-1-years-270426502913"
+    },
+    {
+        "company": "Speechify\n2.3\n4 Reviews",
+        "title": "Senior Software Engineer, Core Experiences",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-senior-software-engineer-core-experiences-speechify-bengaluru-0-to-2-years-270426502910"
+    },
+    {
+        "company": "Speechify\n2.3\n4 Reviews",
+        "title": "Software Engineer, iOS Core Product",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-software-engineer-ios-core-product-speechify-chennai-0-to-1-years-270426502908"
+    },
+    {
+        "company": "Speechify\n2.3\n4 Reviews",
+        "title": "Software Engineer, iOS Core Product",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-software-engineer-ios-core-product-speechify-bengaluru-0-to-1-years-270426502906"
+    },
+    {
+        "company": "DIGITAP.AI\n4.3\n22 Reviews",
+        "title": "Junior Backend Python Developer",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-junior-backend-python-developer-digitap-bengaluru-0-to-1-years-270426501321"
+    },
+    {
+        "company": "Olyv India formerly SmartCoin\n4.3\n280 Reviews",
+        "title": "Motion Graphic Design Intern (Social Media & Growth)",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-motion-graphic-design-intern-social-media-growth-olyv-india-formerly-smartcoin-bengaluru-0-to-1-years-240426503032"
+    },
+    {
+        "company": "Startek\n3.0\n9489 Reviews",
+        "title": "Apprentice - Operations",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-apprentice-operations-startek-bengaluru-0-to-1-years-230426501936"
+    },
+    {
+        "company": "BNC Motors Private Limited\n3.2\n8 Reviews",
+        "title": "Web Developer",
+        "location": "Coimbatore(Chinnavedampatti +1)",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-web-developer-bnc-motors-private-limited-coimbatore-0-to-7-years-020326003029"
+    },
+    {
+        "company": "Winfomi\n4.4\n2 Reviews",
+        "title": "Sales Intern",
+        "location": "Coimbatore",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-sales-intern-winfomi-coimbatore-0-to-2-years-300426910417"
+    },
+    {
+        "company": "Localization Academy",
+        "title": "Urdu - Fluent Speaker - AI Training",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-urdu-fluent-speaker-ai-training-localization-academy-bengaluru-0-to-3-years-300426500615"
+    },
+    {
+        "company": "Accenture\n3.7\n73383 Reviews",
+        "title": "Utility Bill New Associate-Messaging",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-utility-bill-new-associate-messaging-accenture-solutions-pvt-ltd-chennai-0-to-1-years-290426920840"
+    },
+    {
+        "company": "Winfomi\n4.4\n2 Reviews",
+        "title": "Business Development Executive - ( B2B)",
+        "location": "Coimbatore",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-business-development-executive-b2b-winfomi-coimbatore-0-to-1-years-290426914170"
+    },
+    {
+        "company": "Swiss Re\n3.7\n353 Reviews",
+        "title": "Apprentice",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-apprentice-swiss-re-bengaluru-0-to-1-years-280426500321"
+    },
+    {
+        "company": "Spire Technologies And Solutions\n3.2\n35 Reviews",
+        "title": "0 To 1 Operator (AI + Product + GTM)",
+        "location": "Bengaluru",
+        "salary": "4-5 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-0-to-1-operator-ai-product-gtm-spire-technologies-and-solutions-bengaluru-0-to-2-years-280426010429"
+    },
+    {
+        "company": "Olyv India formerly SmartCoin\n4.3\n280 Reviews",
+        "title": "AI Creative Producer (Performance Marketing)",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-creative-producer-performance-marketing-olyv-india-formerly-smartcoin-bengaluru-0-to-5-years-270426502661"
+    },
+    {
+        "company": "Hevo Technologies\n4.0\n58 Reviews",
+        "title": "Marketing Intern - Brand & Social Media",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-marketing-intern-brand-social-media-hevo-technologies-india-private-limited-bengaluru-0-to-1-years-240426503011"
+    },
+    {
+        "company": "Onity Group Inc\n3.8\n1153 Reviews",
+        "title": "Associate, Correspondence",
+        "location": "Hybrid - Bengaluru(Sarjapur Road)",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-associate-correspondence-onity-group-inc-bengaluru-0-to-2-years-230426023821"
+    },
+    {
+        "company": "Tru Hair And Skin\n4.0\n14 Reviews",
+        "title": "Graphic Designer",
+        "location": "Hybrid - Bengaluru(BTM 2nd Stage)",
+        "salary": "3.5-5.5 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-graphic-designer-tru-hair-and-skin-bengaluru-0-to-2-years-230426016441"
+    },
+    {
+        "company": "Inner Sprout Solutions",
+        "title": "Content Curator Intern",
+        "location": "Bengaluru",
+        "salary": "84,000-96,000 PA",
+        "apply_link": "https://www.naukri.com/job-listings-content-curator-intern-inner-sprout-solutions-bengaluru-0-to-1-years-050526029438"
+    },
+    {
+        "company": "Northstarz",
+        "title": "SDR Intern AI Sales",
+        "location": "Bengaluru(Bannerghatta Road)",
+        "salary": "2.16-2.4 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-sdr-intern-ai-sales-peopleshift-management-consulting-llp-bengaluru-0-to-1-years-050526016845"
+    },
+    {
+        "company": "NoBroker\n3.0\n2595 Reviews",
+        "title": "AI Operations Intern (Lead Management)",
+        "location": "Bengaluru",
+        "salary": "15,000/month",
+        "apply_link": "https://www.naukri.com/job-listings-ai-operations-intern-lead-management-nobroker-bengaluru-0-to-1-years-040526021803"
+    },
+    {
+        "company": "Escape Plan",
+        "title": "Creative Designer",
+        "location": "Bengaluru(Bellandur)",
+        "salary": "15-30 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-creative-designer-escape-plan-bengaluru-0-to-5-years-280426029048"
+    },
+    {
+        "company": "Rfid4u It Solutions\n3.5\n17 Reviews",
+        "title": "Junior Video Editor & Social Media Creator",
+        "location": "Coimbatore",
+        "salary": "2.5-3.5 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-junior-video-editor-social-media-creator-rfid4u-it-solutions-coimbatore-0-to-1-years-240426029054"
+    },
+    {
+        "company": "IIT Madras\n3.9\n247 Reviews",
+        "title": "Postdoctoral Researcher",
+        "location": "Chennai",
+        "salary": "7-12 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-postdoctoral-researcher-iit-madras-chennai-0-to-0-years-150426013063"
+    },
+    {
+        "company": "IIT Madras\n3.9\n247 Reviews",
+        "title": "Postdoctoral Researcher",
+        "location": "Chennai",
+        "salary": "7-12 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-postdoctoral-researcher-iit-madras-chennai-0-to-0-years-150426010878"
+    },
+    {
+        "company": "First Solar\n4.0\n155 Reviews",
+        "title": "Intern",
+        "location": "Coimbatore, Chennai, Madurai, Tiruppur, Salem, Tiruchirapalli",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-intern-first-solar-madurai-tiruppur-salem-chennai-tiruchirapalli-coimbatore-0-to-1-years-150426501606"
+    },
+    {
+        "company": "Schoolnet\n3.9\n408 Reviews",
+        "title": "Robotics & AI Trainer",
+        "location": "Chennai, Noida, Bhopal",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-robotics-ai-trainer-schoolnet-noida-bhopal-chennai-0-to-2-years-140426029536"
+    },
+    {
+        "company": "Sedin Technologies\n4.4\n224 Reviews",
+        "title": "AI Engineer",
+        "location": "Hybrid - Chennai, Bengaluru",
+        "salary": "4-8 Lacs PA",
+        "apply_link": "https://www.naukri.com/job-listings-ai-engineer-sedin-technologies-chennai-bengaluru-0-to-3-years-070426019691"
+    },
+    {
+        "company": "Tiger Analytics\n3.7\n986 Reviews",
+        "title": "Engineering Off-Campus_Class of 2025_Full Time Opportunities",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-engineering-off-campus-class-of-2025-full-time-opportunities-tiger-analytics-chennai-0-to-1-years-010426030610"
+    },
+    {
+        "company": "Amazon\n3.9\n31386 Reviews",
+        "title": "Applied Scientist I, Search Relevance International",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-applied-scientist-i-search-relevance-international-amazon-development-centre-india-pvt-ltd-bengaluru-0-to-5-years-270326506169"
+    },
+    {
+        "company": "Sprinto Hq\n2.6\n15 Reviews",
+        "title": "Strategy & Operations Intern",
+        "location": "Bengaluru",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-strategy-operations-intern-sprinto-hq-bengaluru-0-to-1-years-270326503819"
+    },
+    {
+        "company": "Zuntra Digital\n3.9\n4 Reviews",
+        "title": "Product Testing Executive Intern",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-product-testing-executive-intern-zuntra-digital-chennai-0-to-1-years-260326503207"
+    },
+    {
+        "company": "The Infinity Canvas",
+        "title": "Content Writer",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-content-writer-the-infinity-canvas-chennai-0-to-5-years-260326501268"
+    },
+    {
+        "company": "Zuntra Digital\n3.9\n4 Reviews",
+        "title": "AI Content Generation Intern",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-content-generation-intern-zuntra-digital-chennai-0-to-1-years-260326500378"
+    },
+    {
+        "company": "Times World Information Technology",
+        "title": "PHP Intern (AI-Augmented Development)",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-php-intern-ai-augmented-development-times-world-information-technology-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-2-years-260226504188"
+    },
+    {
+        "company": "Flyways Softwares And Solutions",
+        "title": "Manuscript Editor",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-manuscript-editor-flyways-softwares-and-solutions-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-3-years-251124503880"
+    },
+    {
+        "company": "Digirecruitx\n4.1\n5 Reviews",
+        "title": "AI Support Engineer",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-support-engineer-digirecruitx-bengaluru-0-to-1-years-250326506106"
+    },
+    {
+        "company": "Sociohub",
+        "title": "INTERN",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-intern-sociohub-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-2-years-241024500003"
+    },
+    {
+        "company": "Hatigen Consulting Services",
+        "title": "UK-US IT recruiter",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-uk-us-it-recruiter-hatigen-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-3-years-240823502676"
+    },
+    {
+        "company": "Truefoundry",
+        "title": "Backend Interns",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-backend-interns-truefoundry-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-1-years-240326508379"
+    },
+    {
+        "company": "Zuntra Digital\n3.9\n4 Reviews",
+        "title": "Product Testing Executive Intern",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-product-testing-executive-intern-zuntra-digital-chennai-0-to-5-years-240326502164"
+    },
+    {
+        "company": "Philomena's Hospital\n4.3\n36 Reviews",
+        "title": "Speech Language Pathologist",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-speech-language-pathologist-st-philomenas-hospital-bengaluru-0-to-2-years-240226503581"
+    },
+    {
+        "company": "Karomi Technology\n3.5\n45 Reviews",
+        "title": "AI Intern",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-intern-karomi-technologies-chennai-0-to-1-years-231225503370"
+    },
+    {
+        "company": "Kaleris\n4.0\n28 Reviews",
+        "title": "Associate AIML Software Engineer",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-associate-aiml-software-engineer-kaleris-chennai-0-to-2-years-230326504020"
+    },
+    {
+        "company": "Zuntra Digital\n3.9\n4 Reviews",
+        "title": "AI Content Generation Intern",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-ai-content-generation-intern-zuntra-digital-chennai-0-to-5-years-230326502080"
+    },
+    {
+        "company": "Amazon\n3.9\n31386 Reviews",
+        "title": "Applied Scientist, Vertical Search",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-applied-scientist-vertical-search-amazon-development-centre-india-pvt-ltd-bengaluru-0-to-5-years-230326500727"
+    },
+    {
+        "company": "Amici Global Solutions\n4.0\n27 Reviews",
+        "title": "CONTENT WRITING Expert",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-content-writing-expert-amici-global-solutions-pvt-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-2-years-221124503506"
+    },
+    {
+        "company": "Amici Global Solutions\n4.0\n27 Reviews",
+        "title": "DIGITAL MARKETING",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-digital-marketing-amici-global-solutions-pvt-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-2-years-221124503505"
+    },
+    {
+        "company": "Scribble Data",
+        "title": "Lead Engineer",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-lead-engineer-scribble-data-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-1-years-220224501644"
+    },
+    {
+        "company": "Trinity Life Sciences",
+        "title": "Senior Data Scientist- Machine Learning",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-senior-data-scientist-machine-learning-trinity-life-sciences-bengaluru-0-to-5-years-210426502267"
+    },
+    {
+        "company": "Digantara",
+        "title": "Image Processing Intern",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-image-processing-intern-digantara-bengaluru-0-to-1-years-200525503955"
+    },
+    {
+        "company": "Vmock\n2.0\n43 Reviews",
+        "title": "Business Analyst",
+        "location": "Chennai, Bengaluru, Kolkata, Mumbai, New Delhi, Hyderabad, Pune",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-business-analyst-vmock-india-pvt-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-2-years-190924501017"
+    },
+    {
+        "company": "STUTZEN\n4.9\n3 Reviews",
+        "title": "Junior and Senior Copy Writer / AI prompt Engineer",
+        "location": "Chennai",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-junior-and-senior-copy-writer-ai-prompt-engineer-stutzen-corporates-private-limited-chennai-0-to-6-years-190326505374"
+    },
+    {
+        "company": "Zuntra Digital\n3.9\n4 Reviews",
+        "title": "Product Testing Executive Intern",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-product-testing-executive-intern-zuntra-digital-chennai-0-to-6-years-190326501884"
+    },
+    {
+        "company": "Plivo Communications India\n2.2\n53 Reviews",
+        "title": "Video Editor",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-video-editor-plivo-communications-india-pvt-ltd-bengaluru-0-to-3-years-190226504283"
+    },
+    {
+        "company": "Zuntra Digital\n3.9\n4 Reviews",
+        "title": "AI Content Generation Intern",
+        "location": "Chennai",
+        "salary": "Unpaid",
+        "apply_link": "https://www.naukri.com/job-listings-ai-content-generation-intern-zuntra-digital-chennai-0-to-1-years-180326501262"
+    },
+    {
+        "company": "Skydio",
+        "title": "Senior Customer Support Representative",
+        "location": "Bengaluru",
+        "salary": "Not disclosed",
+        "apply_link": "https://www.naukri.com/job-listings-senior-customer-support-representative-skydio-bengaluru-0-to-3-years-170326502529"
+    }
+]
