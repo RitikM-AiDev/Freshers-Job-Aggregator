@@ -4,12 +4,16 @@ def test_linkedin_navigation_ml():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-
+        page.set_default_timeout(5000)
         page.goto(
             "https://www.linkedin.com/jobs/search?keywords=&location=Coimbatore&geoId=101031506&position=1&pageNum=0",
             wait_until="domcontentloaded"
         )
-
+        page.add_init_script("""
+    document.addEventListener('DOMContentLoaded', () => {
+        window.stop(); // Stops the loading of images/scripts once text is ready
+    });
+""")
         page.wait_for_timeout(2000)
 
         # close popup safely

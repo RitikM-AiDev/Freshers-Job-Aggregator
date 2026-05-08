@@ -5,10 +5,21 @@ def internshala_search():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-
         page.wait_for_timeout(3000)
-        page.goto("https://internshala.com/")
+        page.goto("https://internshala.com/",wait_until="load")
+        page.add_init_script("""
+    document.addEventListener('DOMContentLoaded', () => {
+        window.stop(); // Stops the loading of images/scripts once text is ready
+    });
+""")
+        # 1. Set the global timeout to 5 seconds (5000ms)
+        page.set_default_timeout(5000)
 
+        # 2. Force the page to scroll to the bottom to load "lazy" content
+        page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+
+        # 3. (Optional) Give it a moment to let the new items render
+        page.wait_for_timeout(2000)
         job_link = page.locator("#jobs_new_superscript")
         job_link.click()
 

@@ -4,13 +4,17 @@ def naukri_search():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-
+        page.set_default_timeout(5000)
         page.goto(
             "https://www.naukri.com/",
             wait_until="domcontentloaded",
             timeout=60000
         )
-
+        page.add_init_script("""
+    document.addEventListener('DOMContentLoaded', () => {
+        window.stop(); // Stops the loading of images/scripts once text is ready
+    });
+""")
         page.locator("#expereinceDD").click()
         page.locator(".dropdown li").first.click()
 
