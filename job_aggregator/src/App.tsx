@@ -136,7 +136,7 @@ const App: React.FC = () => {
       <span className="relative flex items-center justify-center gap-2">
         {loading ? (
           <>
-            <span className="animate-pulse">Searching Internshala...</span>
+            <span className="animate-pulse">{statusMessage}</span>
             <div className="w-5 h-5 border-2 border-white/30 border-t-white rounded-full animate-spin" />
           </>
         ) : (
