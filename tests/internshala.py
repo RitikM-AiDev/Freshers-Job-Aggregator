@@ -9,7 +9,7 @@ def internshala_search():
         
         page = browser.new_page()
 
-        page.set_default_timeout(10000) 
+        page.set_default_timeout(60000) 
 
         # URL for your job search
         url = "https://internshala.com/fresher-jobs/ai-agent-development,artificial-intelligence-ai,data-science,machine-learning-jobs/"
@@ -94,7 +94,7 @@ def internshala_search():
 
             if next_button.is_visible() and "disabled" not in button_class:
                 next_button.click()
-                page.wait_for_timeout(2000)
+                page.wait_for_timeout(60000)
             else:
                 break
 

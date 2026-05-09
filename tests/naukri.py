@@ -5,12 +5,12 @@ def naukri_search():
             headless=False,
         )
         page = browser.new_page()
-        # page.set_default_timeout(10000) 
+        page.set_default_timeout(60000) 
 
         # URL for your job search
         url = "https://www.naukri.com/artificial-intelligence-machine-learning-jobs-in-coimbatore-2?k=artificial+intelligence%2C+machine+learning&l=coimbatore%2C+chennai%2C+bengaluru&experience=0"
 
-        page.goto(url, wait_until="domcontentloaded", timeout=10000)
+        page.goto(url, wait_until="domcontentloaded")
 
     #         page.add_init_script("""
     #     document.addEventListener('DOMContentLoaded', () => {
@@ -53,8 +53,8 @@ def naukri_search():
 
         while True:
             handle_popups(page)
-            page.wait_for_load_state(timeout=5000,state="domcontentloaded")
-            page.wait_for_selector(".srp-jobtuple-wrapper",timeout=20000)
+            page.wait_for_load_state(timeout=60000,state="domcontentloaded")
+            page.wait_for_selector(".srp-jobtuple-wrapper",timeout=60000)
 
             jobs = page.locator(".srp-jobtuple-wrapper")
             count = jobs.count()
@@ -100,7 +100,7 @@ def naukri_search():
                 next_btn.scroll_into_view_if_needed()
                 next_btn.click()
 
-                page.wait_for_timeout(2000)
+                page.wait_for_timeout(60000)
                 current_page += 1
             else:
                 break

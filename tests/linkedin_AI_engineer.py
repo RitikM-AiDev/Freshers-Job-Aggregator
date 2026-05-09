@@ -4,7 +4,7 @@ def test_linkedin_navigation_ai():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
-        page.set_default_timeout(5000)
+        page.set_default_timeout(60000)
         page.goto(
             "https://www.linkedin.com/jobs/search?keywords=&location=Coimbatore%2C%20Tamil%20Nadu%2C%20India&geoId=101031506&position=1&pageNum=0",
             wait_until="domcontentloaded"
@@ -39,7 +39,7 @@ def test_linkedin_navigation_ai():
         page.locator("#job-search-bar-keywords").fill("Artificial Intelligence (AI)")
         page.keyboard.press("Enter")
 
-        page.wait_for_timeout(3000)
+        page.wait_for_timeout(60000)
 
         jobs = page.locator(".jobs-search__results-list li")
         count = jobs.count()
