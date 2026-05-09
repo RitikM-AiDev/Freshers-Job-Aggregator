@@ -28,10 +28,11 @@ def home():
 @app.post("/search")
 def search(data: Message):
     print(data.request)
-    internshala = internshala_search()
     naukri = naukri_search()
-    linkedin_ai = test_linkedin_navigation_ai()
+    internshala = internshala_search()
     linkedin_ml = test_linkedin_navigation_ml()
+    linkedin_ai = test_linkedin_navigation_ai()
+   
     if os.path.exists("jobs.csv"):
         os.remove("jobs.csv")
     list_jobs_csv = []

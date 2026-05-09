@@ -2,11 +2,11 @@ from playwright.sync_api import sync_playwright
 
 def test_linkedin_navigation_ai():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=False)
         page = browser.new_page()
         page.set_default_timeout(5000)
         page.goto(
-            "https://www.linkedin.com/jobs/search?keywords=&location=Coimbatore&geoId=101031506&position=1&pageNum=0",
+            "https://www.linkedin.com/jobs/search?keywords=&location=Coimbatore%2C%20Tamil%20Nadu%2C%20India&geoId=101031506&position=1&pageNum=0",
             wait_until="domcontentloaded"
         )
 #         page.add_init_script("""
@@ -14,27 +14,27 @@ def test_linkedin_navigation_ai():
 #         window.stop(); // Stops the loading of images/scripts once text is ready
 #     });
 # """)
-        page.wait_for_timeout(2000)
-        try:
-            dismiss = page.locator(
-                '[data-tracking-control-name="public_jobs_contextual-sign-in-modal_modal_dismiss"]'
-            )
-            if dismiss.count() > 0:
-                dismiss.click(force=True)
-        except:
-            pass
+        # page.wait_for_timeout(2000)
+        # try:
+        #     dismiss = page.locator(
+        #         '[data-tracking-control-name="public_jobs_contextual-sign-in-modal_modal_dismiss"]'
+        #     )
+        #     if dismiss.count() > 0:
+        #         dismiss.click(force=True)
+        # except:
+        #     pass
 
-        # experience filter
-        page.get_by_label("Experience level filter.").click()
+        # # experience filter
+        # page.get_by_label("Experience level filter.").click()
 
-        page.locator("label[for='f_E-0']").click(force=True)
-        page.locator("label[for='f_E-1']").click(force=True)
+        # page.locator("label[for='f_E-0']").click(force=True)
+        # page.locator("label[for='f_E-1']").click(force=True)
 
-        page.locator(
-            'button[data-tracking-control-name="public_jobs_f_E"].filter__submit-button'
-        ).click()
+        # page.locator(
+        #     'button[data-tracking-control-name="public_jobs_f_E"].filter__submit-button'
+        # ).click()
 
-        page.wait_for_load_state("networkidle")
+   
 
         page.locator("#job-search-bar-keywords").fill("Artificial Intelligence (AI)")
         page.keyboard.press("Enter")
