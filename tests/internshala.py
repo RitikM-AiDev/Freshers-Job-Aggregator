@@ -3,26 +3,19 @@ from playwright.sync_api import sync_playwright
 
 def internshala_search():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(
+            headless=False,
+        )
+        
         page = browser.new_page()
-        page.wait_for_timeout(3000)
-        page.goto("https://internshala.com/fresher-jobs/ai-agent-development,artificial-intelligence-ai,data-science,machine-learning-jobs/",wait_until="load")
-        page.add_init_script("""
-    document.addEventListener('DOMContentLoaded', () => {
-        window.stop(); // Stops the loading of images/scripts once text is ready
-    });
-""")
-        # 1. Set the global timeout to 5 seconds (5000ms)
-        page.set_default_timeout(5000)
 
-        # 2. Force the page to scroll to the bottom to load "lazy" content
-        page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        page.set_default_timeout(10000) 
 
-        # 3. (Optional) Give it a moment to let the new items render
-        page.wait_for_timeout(2000)
-        # job_link = page.locator("#jobs_new_superscript")
-        # job_link.click()
+        # URL for your job search
+        url = "https://internshala.com/fresher-jobs/ai-agent-development,artificial-intelligence-ai,data-science,machine-learning-jobs/"
 
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+    
         close_tab = page.locator("#close_popup")
         close_tab.click()
 

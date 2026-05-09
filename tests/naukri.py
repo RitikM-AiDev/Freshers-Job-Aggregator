@@ -1,35 +1,37 @@
 from playwright.sync_api import sync_playwright, Page
-
 def naukri_search():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        page = browser.new_page()
-        page.set_default_timeout(5000)
-        page.goto(
-            "https://www.naukri.com/artificial-intelligence-machine-learning-jobs-in-coimbatore-2?k=artificial+intelligence%2C+machine+learning&l=coimbatore%2C+chennai%2C+bengaluru&experience=0",
-            wait_until="domcontentloaded",
-            timeout=60000
+        browser = p.chromium.launch(
+            headless=False,
         )
-#         page.add_init_script("""
-#     document.addEventListener('DOMContentLoaded', () => {
-#         window.stop(); // Stops the loading of images/scripts once text is ready
-#     });
-# # """)
-#         page.locator("#expereinceDD").click()
-#         page.locator(".dropdown li").first.click()
+        page = browser.new_page()
+        # page.set_default_timeout(10000) 
 
-#         page.get_by_placeholder("Enter location").fill(
-#             "Coimbatore, Chennai, Bengaluru"
-#         )
+        # URL for your job search
+        url = "https://www.naukri.com/artificial-intelligence-machine-learning-jobs-in-coimbatore-2?k=artificial+intelligence%2C+machine+learning&l=coimbatore%2C+chennai%2C+bengaluru&experience=0"
 
-#         page.get_by_placeholder(
-#             "Enter skills / designations / companies"
-#         ).fill(
-#             "Artificial Intelligence, Machine learning"
-#         )
+        page.goto(url, wait_until="domcontentloaded", timeout=10000)
 
-#         page.locator(".qsbSubmit").click()
-#         page.wait_for_timeout(3000)
+    #         page.add_init_script("""
+    #     document.addEventListener('DOMContentLoaded', () => {
+    #         window.stop(); // Stops the loading of images/scripts once text is ready
+    #     });
+    # # """)
+    #         page.locator("#expereinceDD").click()
+    #         page.locator(".dropdown li").first.click()
+
+    #         page.get_by_placeholder("Enter location").fill(
+    #             "Coimbatore, Chennai, Bengaluru"
+    #         )
+
+    #         page.get_by_placeholder(
+    #             "Enter skills / designations / companies"
+    #         ).fill(
+    #             "Artificial Intelligence, Machine learning"
+    #         )
+
+    #         page.locator(".qsbSubmit").click()
+    #         page.wait_for_timeout(3000)
 
         all_jobs = []
         visited_links = set()
@@ -51,8 +53,8 @@ def naukri_search():
 
         while True:
             handle_popups(page)
-            page.wait_for_load_state(timeout=5000,state="load")
-            page.wait_for_selector(".srp-jobtuple-wrapper")
+            page.wait_for_load_state(timeout=5000,state="domcontentloaded")
+            page.wait_for_selector(".srp-jobtuple-wrapper",timeout=20000)
 
             jobs = page.locator(".srp-jobtuple-wrapper")
             count = jobs.count()
