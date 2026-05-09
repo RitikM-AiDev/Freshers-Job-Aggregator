@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright, Page
 def naukri_search():
     with sync_playwright() as p:
         browser = p.chromium.launch(
-            headless=False,
+            headless=True,
         )
         page = browser.new_page()
         page.set_default_timeout(60000) 

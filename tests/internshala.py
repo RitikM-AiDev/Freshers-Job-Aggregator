@@ -4,7 +4,7 @@ from playwright.sync_api import sync_playwright
 def internshala_search():
     with sync_playwright() as p:
         browser = p.chromium.launch(
-            headless=False,
+            headless=True,
         )
         
         page = browser.new_page()
